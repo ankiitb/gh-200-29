@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say Hello
-        run: echo "Hello from GH-200 Session from Himanshu!!!"
+        run: echo "Hello from GH-200 Session from Ankit Bhagat!!!"
 
       - name: Checkout Repo
         uses: actions/checkout@v5
